@@ -1,5 +1,5 @@
 # Matching Game
-Matching Game is a simple android app that allows you play a match animals together. 
+Matching Game is a simple android app that allows you to match animals together. 
 
 ### Prerequisites
 Be sure to run `git clone https://github.com/rutherfn/Matching-Game.git`, on the given repo. From there, you will be able to check out the master branch to get the up to date version of features!
